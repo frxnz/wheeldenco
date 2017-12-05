@@ -1,0 +1,12 @@
+.wc-splash {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    .wc-logo {
+        width: calc(100vw - 4em);
+        max-width: 40em;
+        height: auto;
+    }
+}
